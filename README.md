@@ -20,7 +20,7 @@ Add your `clientId` and `clientSecret` to `spotifyConfig.ts` <br />
 
 `npx react-native run android`
 
-# Descryption 
+# Description 
 
 The app allows you to control your Spotify player, view recently played songs, and search for and then add songs to your queue. This App is created for **educational purposes only** and is not intended for everyday use.
 
