@@ -3,8 +3,8 @@
 
 # SpotifyPilot - android only
 **Versions**
-node version `16.13.2` 
-react native `0.66.4`
+node version `16.13.2` <br />
+react native `0.66.4` <br />
 
 # How To Run
 
@@ -13,7 +13,7 @@ react native `0.66.4`
 `yarn install` or `npm install`
 
 ### configure
-Add your `clientId` and `clientSecret` to `spotifyConfig.ts`
+Add your `clientId` and `clientSecret` to `spotifyConfig.ts` <br />
 *you can obtain them on https://developer.spotify.com/ *
 
 ### run on device or emulator
